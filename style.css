@@ -45,10 +45,13 @@ main{
 }
 
 #restart-btn{
-    color: black;
+    color: rgb(236, 60, 245);
     font-weight: bold;
-    margin-top: 20px;
-    font-size: 8vmin;
+    margin-top: 17px;
+    font-size: 4vmin;
+    border: 2px solid antiquewhite;
+    border-radius: 4px;
+    background-color: rgb(232, 228, 234);
 }
 
 #restart-btn:hover{
